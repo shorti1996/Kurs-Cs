@@ -1,0 +1,50 @@
+﻿@model List<MaciejAndruszkoLab5.Models.Pizza>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+asdasdasd asd asdas
+</div>
+<div id="detail_modal_containter">
+
+</div>
+@Html.Partial("~/Views/Home/_AddModal.cshtml",new MaciejAndruszkoLab5.Models.Pizza())
+<a id="show_add_modal" style="margin:20px;" class="btn btn-success"><span class="glyphicon glyphicon-plus"></span> Dodaj nową pizze</a>
+<table class="table table-bordered table-hover">
+    <tr>
+        <th>Nazwa</th>
+        <th>Cena</th>
+        <th>Wegetariańska</th>
+        <th>Akcje</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Price</td>
+            <td><input type="checkbox" @if(item.isVegetarian){<text>checked</text>} /></td>
+            <td>
+                <a class="btn btn-danger" href="/Home/Delete/@item.Id">Usuń</a>
+                <a class="btn btn-primary" style="margin-left:15px;" href="/Home/Edit/@item.Id">Edytuj</a>
+                <a class="btn btn-default details" data-id="@item.Id" style="margin-left:15px;">Szczegóły</a>
+            </td>
+        </tr>
+    }
+</table>
+<script type="text/javascript">
+    $(document).on('click', '#show_add_modal', function () {
+        $('#add_modal').modal('show');
+    });
+    $(document).on('click', '.details', function () {
+        var id = $(this).data('id');
+        $.ajax({
+            url: '/Home/_Details/' + id,
+            success: function (data) {
+                $('#detail_modal_containter').html(data);
+                $('#details_modal').modal('show');
+            },
+            error: function () { alert('Bląd')}
+        });
+    });
+</script>

@@ -1,0 +1,35 @@
+﻿@model MaciejAndruszkoLab5.Models.Pizza
+
+<div class="modal fade" tabindex="-1" role="dialog" id="add_modal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Modal title</h4>
+            </div>
+            <div class="modal-body">
+                <h2>Dodaj nową pizze</h2>
+                @using (Html.BeginForm("AddNewPizza", "Home", FormMethod.Post))
+                {
+                    <div class="row">
+                        <div class="col-md-2">@Html.LabelFor(x => x.Name)</div>
+                        <div class="col-md-5">@Html.TextBoxFor(x => x.Name, new { @class = "form-control", @placeholder = "Wpisz nazwę pizzy" })</div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-2">@Html.LabelFor(x => x.Price)</div>
+                        <div class="col-md-5">@Html.TextBoxFor(x => x.Price, new { @class = "form-control", @type = "number", @placeholder = "wpisz cenę pizzy" })</div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-2">@Html.LabelFor(x => x.isVegetarian)</div>
+                        <div class="col-md-5">@Html.CheckBoxFor(x => x.isVegetarian, new { @class = "form-control" })</div>
+                    </div>
+                    <button style="margin:20px;" class="btn btn-success" type="submit">Dodaj</button>
+                }
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

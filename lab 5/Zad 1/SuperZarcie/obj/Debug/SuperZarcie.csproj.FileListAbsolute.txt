@@ -1,0 +1,26 @@
+c:\users\wojtekli\documents\visual studio 2015\Projects\SuperZarcie\SuperZarcie\bin\Debug\SuperZarcie.exe.config
+c:\users\wojtekli\documents\visual studio 2015\Projects\SuperZarcie\SuperZarcie\bin\Debug\SuperZarcie.exe
+c:\users\wojtekli\documents\visual studio 2015\Projects\SuperZarcie\SuperZarcie\bin\Debug\SuperZarcie.pdb
+c:\users\wojtekli\documents\visual studio 2015\Projects\SuperZarcie\SuperZarcie\obj\Debug\SuperZarcie.FormMain.resources
+c:\users\wojtekli\documents\visual studio 2015\Projects\SuperZarcie\SuperZarcie\obj\Debug\SuperZarcie.Properties.Resources.resources
+c:\users\wojtekli\documents\visual studio 2015\Projects\SuperZarcie\SuperZarcie\obj\Debug\SuperZarcie.csproj.GenerateResource.Cache
+c:\users\wojtekli\documents\visual studio 2015\Projects\SuperZarcie\SuperZarcie\obj\Debug\SuperZarcie.exe
+c:\users\wojtekli\documents\visual studio 2015\Projects\SuperZarcie\SuperZarcie\obj\Debug\SuperZarcie.pdb
+C:\Users\WojtekLi\Documents\visual studio 2015\Projects\SuperZarcie\SuperZarcie\obj\Debug\SuperZarcie.csprojResolveAssemblyReference.cache
+C:\Users\WojtekLi\Documents\visual studio 2015\Projects\SuperZarcie\SuperZarcie\obj\Debug\SuperZarcie.FormLogin.resources
+C:\Users\WojtekLi\Documents\visual studio 2015\Projects\SuperZarcie\SuperZarcie\obj\Debug\SuperZarcie.View.FormOrder.resources
+C:\Users\WojtekLi\Documents\Visual Studio 2015\Projects\SuperZarcie\SuperZarcie\obj\Debug\SuperZarcie.View.FormCook.resources
+C:\Users\WojtekLi\Documents\Visual Studio 2015\Projects\SuperZarcie\SuperZarcie\obj\Debug\SuperZarcie.View.FormDriver.resources
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 1\SuperZarcie\bin\Debug\SuperZarcie.exe.config
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 1\SuperZarcie\obj\Debug\SuperZarcie.exe
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 1\SuperZarcie\obj\Debug\SuperZarcie.pdb
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 1\SuperZarcie\bin\Debug\SuperZarcie.exe
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 1\SuperZarcie\bin\Debug\SuperZarcie.pdb
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 1\SuperZarcie\obj\Debug\SuperZarcie.csprojResolveAssemblyReference.cache
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 1\SuperZarcie\obj\Debug\SuperZarcie.View.FormCook.resources
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 1\SuperZarcie\obj\Debug\SuperZarcie.View.FormDriver.resources
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 1\SuperZarcie\obj\Debug\SuperZarcie.FormMain.resources
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 1\SuperZarcie\obj\Debug\SuperZarcie.View.FormOrder.resources
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 1\SuperZarcie\obj\Debug\SuperZarcie.FormLogin.resources
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 1\SuperZarcie\obj\Debug\SuperZarcie.Properties.Resources.resources
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 1\SuperZarcie\obj\Debug\SuperZarcie.csproj.GenerateResource.Cache

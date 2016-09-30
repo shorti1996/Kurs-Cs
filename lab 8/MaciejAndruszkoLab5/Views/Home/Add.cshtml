@@ -1,0 +1,24 @@
+﻿@model MaciejAndruszkoLab5.Models.Pizza
+@{
+    ViewBag.Title = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Dodaj nową pizze</h2>
+@using (Html.BeginForm("AddNewPizza", "Home", FormMethod.Post))
+{
+    <div class="row">
+        <div class="col-md-2">@Html.LabelFor(x=>x.Name)</div>
+        <div class="col-md-5">@Html.TextBoxFor(x => x.Name, new {@class="form-control",@placeholder="Wpisz nazwę pizzy" })</div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">@Html.LabelFor(x => x.Price)</div>
+        <div class="col-md-5">@Html.TextBoxFor(x => x.Price, new { @class = "form-control",@type="number", @placeholder = "wpisz cenę pizzy" })</div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">@Html.LabelFor(x => x.isVegetarian)</div>
+        <div class="col-md-5">@Html.CheckBoxFor(x => x.isVegetarian, new { @class = "form-control" })</div>
+    </div>
+    <button style="margin:20px;" class="btn btn-success" type="submit">Dodaj</button>
+}
+

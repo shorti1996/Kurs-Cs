@@ -1,0 +1,27 @@
+c:\users\wojtekli\documents\visual studio 2015\Projects\WojciechLiebertLab5\WojciechLiebertLab5\bin\Debug\WojciechLiebertLab5.exe.config
+c:\users\wojtekli\documents\visual studio 2015\Projects\WojciechLiebertLab5\WojciechLiebertLab5\bin\Debug\WojciechLiebertLab5.exe
+c:\users\wojtekli\documents\visual studio 2015\Projects\WojciechLiebertLab5\WojciechLiebertLab5\bin\Debug\WojciechLiebertLab5.pdb
+c:\users\wojtekli\documents\visual studio 2015\Projects\WojciechLiebertLab5\WojciechLiebertLab5\obj\Debug\WojciechLiebertLab5.csprojResolveAssemblyReference.cache
+c:\users\wojtekli\documents\visual studio 2015\Projects\WojciechLiebertLab5\WojciechLiebertLab5\obj\Debug\WojciechLiebertLab5.Properties.Resources.resources
+c:\users\wojtekli\documents\visual studio 2015\Projects\WojciechLiebertLab5\WojciechLiebertLab5\obj\Debug\WojciechLiebertLab5.csproj.GenerateResource.Cache
+c:\users\wojtekli\documents\visual studio 2015\Projects\WojciechLiebertLab5\WojciechLiebertLab5\obj\Debug\WojciechLiebertLab5.exe
+c:\users\wojtekli\documents\visual studio 2015\Projects\WojciechLiebertLab5\WojciechLiebertLab5\obj\Debug\WojciechLiebertLab5.pdb
+C:\Users\WojtekLi\Documents\Visual Studio 2015\Projects\WojciechLiebertLab5\WojciechLiebertLab5\obj\Debug\WojciechLiebertLab5.FormMain.resources
+C:\Kurs C#\lab 5\Zad 0\WojciechLiebertLab5\bin\Debug\WojciechLiebertLab5.exe.config
+C:\Kurs C#\lab 5\Zad 0\WojciechLiebertLab5\obj\Debug\WojciechLiebertLab5.exe
+C:\Kurs C#\lab 5\Zad 0\WojciechLiebertLab5\obj\Debug\WojciechLiebertLab5.pdb
+C:\Kurs C#\lab 5\Zad 0\WojciechLiebertLab5\bin\Debug\WojciechLiebertLab5.exe
+C:\Kurs C#\lab 5\Zad 0\WojciechLiebertLab5\bin\Debug\WojciechLiebertLab5.pdb
+C:\Kurs C#\lab 5\Zad 0\WojciechLiebertLab5\obj\Debug\WojciechLiebertLab5.csprojResolveAssemblyReference.cache
+C:\Kurs C#\lab 5\Zad 0\WojciechLiebertLab5\obj\Debug\WojciechLiebertLab5.FormMain.resources
+C:\Kurs C#\lab 5\Zad 0\WojciechLiebertLab5\obj\Debug\WojciechLiebertLab5.Properties.Resources.resources
+C:\Kurs C#\lab 5\Zad 0\WojciechLiebertLab5\obj\Debug\WojciechLiebertLab5.csproj.GenerateResource.Cache
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 0\WojciechLiebertLab5\bin\Debug\WojciechLiebertLab5.exe.config
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 0\WojciechLiebertLab5\obj\Debug\WojciechLiebertLab5.exe
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 0\WojciechLiebertLab5\obj\Debug\WojciechLiebertLab5.pdb
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 0\WojciechLiebertLab5\bin\Debug\WojciechLiebertLab5.exe
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 0\WojciechLiebertLab5\bin\Debug\WojciechLiebertLab5.pdb
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 0\WojciechLiebertLab5\obj\Debug\WojciechLiebertLab5.csprojResolveAssemblyReference.cache
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 0\WojciechLiebertLab5\obj\Debug\WojciechLiebertLab5.FormMain.resources
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 0\WojciechLiebertLab5\obj\Debug\WojciechLiebertLab5.Properties.Resources.resources
+C:\Users\shorti1996\Documents\Kurs C#\lab 5\Zad 0\WojciechLiebertLab5\obj\Debug\WojciechLiebertLab5.csproj.GenerateResource.Cache

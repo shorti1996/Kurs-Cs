@@ -1,0 +1,23 @@
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab3\WojciechLiebertLab3\bin\Debug\WojciechLiebertLab3.exe
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab3\WojciechLiebertLab3\bin\Debug\WojciechLiebertLab3.pdb
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab3\WojciechLiebertLab3\obj\x86\Debug\WojciechLiebertLab3.Properties.Resources.resources
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab3\WojciechLiebertLab3\obj\x86\Debug\WojciechLiebertLab3.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab3\WojciechLiebertLab3\obj\x86\Debug\WojciechLiebertLab3.exe
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab3\WojciechLiebertLab3\obj\x86\Debug\WojciechLiebertLab3.pdb
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab3\WojciechLiebertLab3\obj\x86\Debug\WojciechLiebertLab3.FormMain.resources
+Z:\Kurs Cs\lab 3\zad 0\WojciechLiebertLab3\obj\x86\Debug\WojciechLiebertLab3.exe
+Z:\Kurs Cs\lab 3\zad 0\WojciechLiebertLab3\obj\x86\Debug\WojciechLiebertLab3.pdb
+Z:\Kurs Cs\lab 3\zad 0\WojciechLiebertLab3\bin\Debug\WojciechLiebertLab3.exe
+Z:\Kurs Cs\lab 3\zad 0\WojciechLiebertLab3\bin\Debug\WojciechLiebertLab3.pdb
+Z:\Kurs Cs\lab 3\zad 0\WojciechLiebertLab3\obj\x86\Debug\WojciechLiebertLab3.csprojResolveAssemblyReference.cache
+Z:\Kurs Cs\lab 3\zad 0\WojciechLiebertLab3\obj\x86\Debug\WojciechLiebertLab3.FormMain.resources
+Z:\Kurs Cs\lab 3\zad 0\WojciechLiebertLab3\obj\x86\Debug\WojciechLiebertLab3.Properties.Resources.resources
+Z:\Kurs Cs\lab 3\zad 0\WojciechLiebertLab3\obj\x86\Debug\WojciechLiebertLab3.csproj.GenerateResource.Cache
+C:\Kurs C#\lab 3\zad 0\WojciechLiebertLab3\obj\x86\Debug\WojciechLiebertLab3.exe
+C:\Kurs C#\lab 3\zad 0\WojciechLiebertLab3\obj\x86\Debug\WojciechLiebertLab3.pdb
+C:\Kurs C#\lab 3\zad 0\WojciechLiebertLab3\bin\Debug\WojciechLiebertLab3.exe
+C:\Kurs C#\lab 3\zad 0\WojciechLiebertLab3\bin\Debug\WojciechLiebertLab3.pdb
+C:\Kurs C#\lab 3\zad 0\WojciechLiebertLab3\obj\x86\Debug\WojciechLiebertLab3.csprojResolveAssemblyReference.cache
+C:\Kurs C#\lab 3\zad 0\WojciechLiebertLab3\obj\x86\Debug\WojciechLiebertLab3.FormMain.resources
+C:\Kurs C#\lab 3\zad 0\WojciechLiebertLab3\obj\x86\Debug\WojciechLiebertLab3.Properties.Resources.resources
+C:\Kurs C#\lab 3\zad 0\WojciechLiebertLab3\obj\x86\Debug\WojciechLiebertLab3.csproj.GenerateResource.Cache

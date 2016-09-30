@@ -1,0 +1,9 @@
+c:\users\shorti1996\documents\visual studio 2015\Projects\WojciechLiebertEgzA\WojciechLiebertEgzA\bin\Debug\WojciechLiebertEgzA.exe.config
+c:\users\shorti1996\documents\visual studio 2015\Projects\WojciechLiebertEgzA\WojciechLiebertEgzA\bin\Debug\WojciechLiebertEgzA.exe
+c:\users\shorti1996\documents\visual studio 2015\Projects\WojciechLiebertEgzA\WojciechLiebertEgzA\bin\Debug\WojciechLiebertEgzA.pdb
+c:\users\shorti1996\documents\visual studio 2015\Projects\WojciechLiebertEgzA\WojciechLiebertEgzA\obj\Debug\WojciechLiebertEgzA.csprojResolveAssemblyReference.cache
+c:\users\shorti1996\documents\visual studio 2015\Projects\WojciechLiebertEgzA\WojciechLiebertEgzA\obj\Debug\WojciechLiebertEgzA.Form1.resources
+c:\users\shorti1996\documents\visual studio 2015\Projects\WojciechLiebertEgzA\WojciechLiebertEgzA\obj\Debug\WojciechLiebertEgzA.Properties.Resources.resources
+c:\users\shorti1996\documents\visual studio 2015\Projects\WojciechLiebertEgzA\WojciechLiebertEgzA\obj\Debug\WojciechLiebertEgzA.csproj.GenerateResource.Cache
+c:\users\shorti1996\documents\visual studio 2015\Projects\WojciechLiebertEgzA\WojciechLiebertEgzA\obj\Debug\WojciechLiebertEgzA.exe
+c:\users\shorti1996\documents\visual studio 2015\Projects\WojciechLiebertEgzA\WojciechLiebertEgzA\obj\Debug\WojciechLiebertEgzA.pdb

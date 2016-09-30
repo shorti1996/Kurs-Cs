@@ -1,0 +1,15 @@
+0. Dokoñczyæ aplikacje na zajêciach, tak aby dzia³a³o Edit/Delete
+i by³a mo¿liwoœæ dodawania nowych pizzy za pomoc¹ formularza. 
++ zjeœæ pizzê i iœc na si³ownie ;)
+
+1. Rozwinaæ aplikacje o obrazki, tak aby ka¿da pizza mia³a obrazek
+który siê wyœwietla w layoucie.
+
+*zrobiæ layout kafelkowy tak aby po klikniêciu na kafelek by³o prze
+kierowanie do strony Details, która wyœwietla dodatkowe informacje o
+produkcie
+
+**Zrobiæ dodatkowe powi¹zanie 1 to many z pomoc¹ EntityFramework, tak aby pizza
+by³a powi¹zana z zamówieniami, (ewentualnie z czymœ innym).
+Dostarczony zostanie Wam kod jak takie powi¹zanie zrobiæ.
+[Plik: lab6 - dodatkowa tabela Orders]

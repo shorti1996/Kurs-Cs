@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataClassesSuperZarcie">
+  <DataContextMoniker Name="/DataClassesSuperZarcieDataContext" />
+  <nestedChildShapes>
+    <classShape Id="c013f205-63d4-49d1-82d2-f6720e6cda0f" absoluteBounds="0.875, 4.625, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/DataClassesSuperZarcieDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0836b66a-b2bd-4cf0-baa1-3b321753f779" absoluteBounds="0.88999999999999968, 5.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d9b03bf6-81c4-4ed0-8f2f-5195040b20fc" absoluteBounds="3.625, 2.75, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/DataClassesSuperZarcieDataContext/Customer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f6835efb-3834-42e2-85a8-a4639e99c636" absoluteBounds="3.64, 3.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3be0f279-d50c-4636-bf99-35825b59c95e" absoluteBounds="0.75, 0.875, 2, 1.3862939453124998">
+      <DataClassMoniker Name="/DataClassesSuperZarcieDataContext/Meal" />
+      <nestedChildShapes>
+        <elementListCompartment Id="edbf2fe1-7fc5-443e-aa07-56c1397f5a27" absoluteBounds="0.765, 1.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="410591af-d9cb-467d-b6d5-121078ad0049" absoluteBounds="3.5, 1, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/DataClassesSuperZarcieDataContext/Order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="31c3e7ae-318f-4029-8941-539ec1208372" absoluteBounds="3.515, 1.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.5625 : 2.75); (4.5625 : 2.19399251302083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesSuperZarcieDataContext/Customer/Customer_Order" />
+      <nodes>
+        <classShapeMoniker Id="d9b03bf6-81c4-4ed0-8f2f-5195040b20fc" />
+        <classShapeMoniker Id="410591af-d9cb-467d-b6d5-121078ad0049" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 1.59699625651042); (3.5 : 1.59699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesSuperZarcieDataContext/Meal/Meal_Order" />
+      <nodes>
+        <classShapeMoniker Id="3be0f279-d50c-4636-bf99-35825b59c95e" />
+        <classShapeMoniker Id="410591af-d9cb-467d-b6d5-121078ad0049" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="434d1108-eb7a-4d75-93d8-1ec4cca23602" absoluteBounds="0.875, 3.125, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/DataClassesSuperZarcieDataContext/Box" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7a467684-e38e-4c90-9da6-3aff676ac34e" absoluteBounds="0.89000000000000012, 3.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.625 : 3.72199625651042); (2.875 : 3.72199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesSuperZarcieDataContext/Customer/Customer_Box" />
+      <nodes>
+        <classShapeMoniker Id="d9b03bf6-81c4-4ed0-8f2f-5195040b20fc" />
+        <classShapeMoniker Id="434d1108-eb7a-4d75-93d8-1ec4cca23602" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

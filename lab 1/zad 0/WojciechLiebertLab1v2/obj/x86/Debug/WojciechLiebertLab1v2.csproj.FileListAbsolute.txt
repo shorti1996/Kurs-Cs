@@ -1,0 +1,17 @@
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab1v2\WojciechLiebertLab1v2\bin\Debug\WojciechLiebertLab1v2.exe
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab1v2\WojciechLiebertLab1v2\bin\Debug\WojciechLiebertLab1v2.pdb
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab1v2\WojciechLiebertLab1v2\obj\x86\Debug\WojciechLiebertLab1v2.Form1.resources
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab1v2\WojciechLiebertLab1v2\obj\x86\Debug\WojciechLiebertLab1v2.Properties.Resources.resources
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab1v2\WojciechLiebertLab1v2\obj\x86\Debug\WojciechLiebertLab1v2.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab1v2\WojciechLiebertLab1v2\obj\x86\Debug\WojciechLiebertLab1v2.exe
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab1v2\WojciechLiebertLab1v2\obj\x86\Debug\WojciechLiebertLab1v2.pdb
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab1v2\WojciechLiebertLab1v2\obj\x86\Debug\WojciechLiebertLab1v2.FormLogged.resources
+Z:\Kurs Cs\lab 1\zad 0\WojciechLiebertLab1v2\obj\x86\Debug\WojciechLiebertLab1v2.exe
+Z:\Kurs Cs\lab 1\zad 0\WojciechLiebertLab1v2\obj\x86\Debug\WojciechLiebertLab1v2.pdb
+Z:\Kurs Cs\lab 1\zad 0\WojciechLiebertLab1v2\bin\Debug\WojciechLiebertLab1v2.exe
+Z:\Kurs Cs\lab 1\zad 0\WojciechLiebertLab1v2\bin\Debug\WojciechLiebertLab1v2.pdb
+Z:\Kurs Cs\lab 1\zad 0\WojciechLiebertLab1v2\obj\x86\Debug\WojciechLiebertLab1v2.csprojResolveAssemblyReference.cache
+Z:\Kurs Cs\lab 1\zad 0\WojciechLiebertLab1v2\obj\x86\Debug\WojciechLiebertLab1v2.Form1.resources
+Z:\Kurs Cs\lab 1\zad 0\WojciechLiebertLab1v2\obj\x86\Debug\WojciechLiebertLab1v2.FormLogged.resources
+Z:\Kurs Cs\lab 1\zad 0\WojciechLiebertLab1v2\obj\x86\Debug\WojciechLiebertLab1v2.Properties.Resources.resources
+Z:\Kurs Cs\lab 1\zad 0\WojciechLiebertLab1v2\obj\x86\Debug\WojciechLiebertLab1v2.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\bin\Release\Kalkulator.exe.config
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\bin\Release\Kalkulator.exe
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\bin\Release\Kalkulator.pdb
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\obj\Release\Kalkulator.MainWindow.resources
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\obj\Release\Kalkulator.Form2.resources
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\obj\Release\Kalkulator.FormGetPower.resources
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\obj\Release\Kalkulator.Properties.Resources.resources
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\obj\Release\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\obj\Release\Kalkulator.exe
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\obj\Release\Kalkulator.pdb

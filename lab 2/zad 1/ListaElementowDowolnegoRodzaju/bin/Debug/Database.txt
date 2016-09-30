@@ -1,0 +1,7 @@
+Lenovo;Yoga Y500;i7-4510U;Intel Graphics 4400;8GB;Images/Yoga-Y500.jpg
+Lenovo;Z50-70;i5-5210U;Intel Graphics 5500;2GB;Images/z50-70.jpg
+Lenovo;Z50-70;i7-5500U;Nvidia GT-820M;4GB;Images/z50-70.jpg
+Dell;Inspiron 15 3543;i7-4510U;Nvidia GT-940M;4GB;Images/dell_3543.jpg
+Gandalf;;;;;Images/2.gif
+Techno Kitty;;;;;
+Królik;;;;;Images/1.jpg

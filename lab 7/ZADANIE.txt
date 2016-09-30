@@ -1,0 +1,9 @@
+Nie zmieœci³o mi siê w repozytorium
+
+1. Mo¿na filtrowaæ loty wg miast (wpisuj¹c w drugim polu tekstowym).
+2. Jest datetime picker, który na razie nie robi nic.
+3. Przyk³adowe loty.
+4. Parsowanie daty.
+5. Prawie-podpowiadacz w wyszukiwaniu (1 pole tekstowe).
+
+http://1drv.ms/1ZQi0ch

@@ -1,0 +1,30 @@
+c:\users\wojtekli\documents\visual studio 2015\Projects\WojciechLiebertLab4\WojciechLiebertLab4\bin\Debug\WojciechLiebertLab4.exe.config
+c:\users\wojtekli\documents\visual studio 2015\Projects\WojciechLiebertLab4\WojciechLiebertLab4\bin\Debug\WojciechLiebertLab4.exe
+c:\users\wojtekli\documents\visual studio 2015\Projects\WojciechLiebertLab4\WojciechLiebertLab4\bin\Debug\WojciechLiebertLab4.pdb
+c:\users\wojtekli\documents\visual studio 2015\Projects\WojciechLiebertLab4\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.csprojResolveAssemblyReference.cache
+c:\users\wojtekli\documents\visual studio 2015\Projects\WojciechLiebertLab4\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.FormMain.resources
+c:\users\wojtekli\documents\visual studio 2015\Projects\WojciechLiebertLab4\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.Properties.Resources.resources
+c:\users\wojtekli\documents\visual studio 2015\Projects\WojciechLiebertLab4\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.csproj.GenerateResource.Cache
+c:\users\wojtekli\documents\visual studio 2015\Projects\WojciechLiebertLab4\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.exe
+c:\users\wojtekli\documents\visual studio 2015\Projects\WojciechLiebertLab4\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.pdb
+C:\Kurs C#\lab 4\Zad 0\WojciechLiebertLab4\bin\Debug\WojciechLiebertLab4.exe.config
+C:\Kurs C#\lab 4\Zad 0\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.exe
+C:\Kurs C#\lab 4\Zad 0\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.pdb
+C:\Kurs C#\lab 4\Zad 1\WojciechLiebertLab4\bin\Debug\WojciechLiebertLab4.exe.config
+C:\Kurs C#\lab 4\Zad 1\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.exe
+C:\Kurs C#\lab 4\Zad 1\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.pdb
+C:\Kurs C#\lab 4\Zad 1\WojciechLiebertLab4\bin\Debug\WojciechLiebertLab4.exe
+C:\Kurs C#\lab 4\Zad 1\WojciechLiebertLab4\bin\Debug\WojciechLiebertLab4.pdb
+C:\Kurs C#\lab 4\Zad 1\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.csprojResolveAssemblyReference.cache
+C:\Kurs C#\lab 4\Zad 1\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.FormMain.resources
+C:\Kurs C#\lab 4\Zad 1\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.Properties.Resources.resources
+C:\Kurs C#\lab 4\Zad 1\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.csproj.GenerateResource.Cache
+C:\Users\shorti1996\Documents\Kurs C#\lab 4\Zad 1\WojciechLiebertLab4\bin\Debug\WojciechLiebertLab4.exe.config
+C:\Users\shorti1996\Documents\Kurs C#\lab 4\Zad 1\WojciechLiebertLab4\bin\Debug\WojciechLiebertLab4.exe
+C:\Users\shorti1996\Documents\Kurs C#\lab 4\Zad 1\WojciechLiebertLab4\bin\Debug\WojciechLiebertLab4.pdb
+C:\Users\shorti1996\Documents\Kurs C#\lab 4\Zad 1\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.csprojResolveAssemblyReference.cache
+C:\Users\shorti1996\Documents\Kurs C#\lab 4\Zad 1\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.FormMain.resources
+C:\Users\shorti1996\Documents\Kurs C#\lab 4\Zad 1\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.Properties.Resources.resources
+C:\Users\shorti1996\Documents\Kurs C#\lab 4\Zad 1\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.csproj.GenerateResource.Cache
+C:\Users\shorti1996\Documents\Kurs C#\lab 4\Zad 1\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.exe
+C:\Users\shorti1996\Documents\Kurs C#\lab 4\Zad 1\WojciechLiebertLab4\obj\Debug\WojciechLiebertLab4.pdb

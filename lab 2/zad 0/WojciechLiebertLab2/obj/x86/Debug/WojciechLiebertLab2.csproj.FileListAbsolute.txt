@@ -1,0 +1,17 @@
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab2\WojciechLiebertLab2\bin\Debug\WojciechLiebertLab2.exe
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab2\WojciechLiebertLab2\bin\Debug\WojciechLiebertLab2.pdb
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab2\WojciechLiebertLab2\obj\x86\Debug\WojciechLiebertLab2.FormWojciechLiebert.resources
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab2\WojciechLiebertLab2\obj\x86\Debug\WojciechLiebertLab2.Properties.Resources.resources
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab2\WojciechLiebertLab2\obj\x86\Debug\WojciechLiebertLab2.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab2\WojciechLiebertLab2\obj\x86\Debug\WojciechLiebertLab2.exe
+c:\users\student\documents\visual studio 2010\Projects\WojciechLiebertLab2\WojciechLiebertLab2\obj\x86\Debug\WojciechLiebertLab2.pdb
+Z:\Kurs Cs\lab 2\zad 0\WojciechLiebertLab2\obj\x86\Debug\WojciechLiebertLab2.exe
+Z:\Kurs Cs\lab 2\zad 0\WojciechLiebertLab2\obj\x86\Debug\WojciechLiebertLab2.pdb
+Z:\Kurs Cs\lab 2\zad 0\WojciechLiebertLab2\bin\Debug\WojciechLiebertLab2.exe
+Z:\Kurs Cs\lab 2\zad 0\WojciechLiebertLab2\bin\Debug\WojciechLiebertLab2.pdb
+Z:\Kurs Cs\lab 2\zad 0\WojciechLiebertLab2\obj\x86\Debug\WojciechLiebertLab2.csprojResolveAssemblyReference.cache
+Z:\Kurs Cs\lab 2\zad 0\WojciechLiebertLab2\obj\x86\Debug\WojciechLiebertLab2.FormWojciechLiebert.resources
+Z:\Kurs Cs\lab 2\zad 0\WojciechLiebertLab2\obj\x86\Debug\WojciechLiebertLab2.Properties.Resources.resources
+Z:\Kurs Cs\lab 2\zad 0\WojciechLiebertLab2\obj\x86\Debug\WojciechLiebertLab2.csproj.GenerateResource.Cache
+C:\Kurs C#\lab 2\zad 0\WojciechLiebertLab2\obj\x86\Debug\WojciechLiebertLab2.exe
+C:\Kurs C#\lab 2\zad 0\WojciechLiebertLab2\obj\x86\Debug\WojciechLiebertLab2.pdb

@@ -1,0 +1,2 @@
+--SELECT * FROM [Order] JOIN Customer on Customer.Id=[Order].CustomerId JOIN Product on Product.Id=[Order].ProductId JOIN Opinion on Opinion.OrderId=[Order].Id JOIN Seller on [Order].SellerId=Seller.Id
+SELECT UserName, SellerName, Opinion, Product.Name FROM [Order] JOIN Customer on Customer.Id=[Order].CustomerId JOIN Product on Product.Id=[Order].ProductId JOIN Opinion on Opinion.OrderId=[Order].Id JOIN Seller on [Order].SellerId=Seller.Id

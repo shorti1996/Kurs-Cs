@@ -1,0 +1,1 @@
+SELECT Pet.Name, BirthDate, [Type], Species, [Owner].Name, [Owner].Surname FROM Pet JOIN [Owner] ON Pet.OwnerId=[Owner].Id

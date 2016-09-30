@@ -1,0 +1,18 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\KredekKeyMoves\KredekKeyMoves\bin\Debug\KredekKeyMoves.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\KredekKeyMoves\KredekKeyMoves\obj\Debug\KredekKeyMoves.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\KredekKeyMoves\KredekKeyMoves\obj\Debug\KredekKeyMoves.KredekKeyMoves.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\KredekKeyMoves\KredekKeyMoves\obj\Debug\KredekKeyMoves.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\KredekKeyMoves\KredekKeyMoves\obj\Debug\KredekKeyMoves.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2015\Projects\KredekKeyMoves\KredekKeyMoves\bin\Debug\KredekKeyMoves.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\KredekKeyMoves\KredekKeyMoves\bin\Debug\KredekKeyMoves.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\KredekKeyMoves\KredekKeyMoves\obj\Debug\KredekKeyMoves.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\KredekKeyMoves\KredekKeyMoves\obj\Debug\KredekKeyMoves.pdb
+Z:\Kurs Cs\materiały\KredekKeyMoves\KredekKeyMoves\bin\Debug\KredekKeyMoves.exe.config
+Z:\Kurs Cs\materiały\KredekKeyMoves\KredekKeyMoves\obj\Debug\KredekKeyMoves.exe
+Z:\Kurs Cs\materiały\KredekKeyMoves\KredekKeyMoves\obj\Debug\KredekKeyMoves.pdb
+Z:\Kurs Cs\materiały\KredekKeyMoves\KredekKeyMoves\bin\Debug\KredekKeyMoves.exe
+Z:\Kurs Cs\materiały\KredekKeyMoves\KredekKeyMoves\bin\Debug\KredekKeyMoves.pdb
+Z:\Kurs Cs\materiały\KredekKeyMoves\KredekKeyMoves\obj\Debug\KredekKeyMoves.csprojResolveAssemblyReference.cache
+Z:\Kurs Cs\materiały\KredekKeyMoves\KredekKeyMoves\obj\Debug\KredekKeyMoves.KredekKeyMoves.resources
+Z:\Kurs Cs\materiały\KredekKeyMoves\KredekKeyMoves\obj\Debug\KredekKeyMoves.Properties.Resources.resources
+Z:\Kurs Cs\materiały\KredekKeyMoves\KredekKeyMoves\obj\Debug\KredekKeyMoves.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\MouseMoveKredek\MouseMoveKredek\bin\Debug\MouseMoveKredek.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\MouseMoveKredek\MouseMoveKredek\bin\Debug\MouseMoveKredek.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\MouseMoveKredek\MouseMoveKredek\bin\Debug\MouseMoveKredek.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\MouseMoveKredek\MouseMoveKredek\obj\Debug\MouseMoveKredek.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\MouseMoveKredek\MouseMoveKredek\obj\Debug\MouseMoveKredek.FormMouseMove.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\MouseMoveKredek\MouseMoveKredek\obj\Debug\MouseMoveKredek.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\MouseMoveKredek\MouseMoveKredek\obj\Debug\MouseMoveKredek.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2015\Projects\MouseMoveKredek\MouseMoveKredek\obj\Debug\MouseMoveKredek.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\MouseMoveKredek\MouseMoveKredek\obj\Debug\MouseMoveKredek.pdb
+Z:\Kurs Cs\materiały\MouseMoveKredek\MouseMoveKredek\bin\Debug\MouseMoveKredek.exe.config
+Z:\Kurs Cs\materiały\MouseMoveKredek\MouseMoveKredek\obj\Debug\MouseMoveKredek.exe
+Z:\Kurs Cs\materiały\MouseMoveKredek\MouseMoveKredek\obj\Debug\MouseMoveKredek.pdb
+Z:\Kurs Cs\materiały\MouseMoveKredek\MouseMoveKredek\bin\Debug\MouseMoveKredek.exe
+Z:\Kurs Cs\materiały\MouseMoveKredek\MouseMoveKredek\bin\Debug\MouseMoveKredek.pdb
+Z:\Kurs Cs\materiały\MouseMoveKredek\MouseMoveKredek\obj\Debug\MouseMoveKredek.csprojResolveAssemblyReference.cache
+Z:\Kurs Cs\materiały\MouseMoveKredek\MouseMoveKredek\obj\Debug\MouseMoveKredek.FormMouseMove.resources
+Z:\Kurs Cs\materiały\MouseMoveKredek\MouseMoveKredek\obj\Debug\MouseMoveKredek.Properties.Resources.resources
+Z:\Kurs Cs\materiały\MouseMoveKredek\MouseMoveKredek\obj\Debug\MouseMoveKredek.csproj.GenerateResource.Cache

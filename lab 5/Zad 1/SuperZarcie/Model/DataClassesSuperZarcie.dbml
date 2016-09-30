@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SuperZarcie" Class="DataClassesSuperZarcieDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-HDK5D0V;Initial Catalog=SuperZarcie;Integrated Security=True" SettingsObjectName="SuperZarcie.Properties.Settings" SettingsPropertyName="SuperZarcieConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.[User]" Member="Users">
+    <Type Name="User">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Login" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Password" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Role" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="UserGUID" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Customer" Member="Customers">
+    <Type Name="Customer">
+      <Column Name="CustomerGUID" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Surname" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="OrderId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Customer_Order" Member="Orders" ThisKey="CustomerGUID" OtherKey="CustomerId" Type="Order" />
+      <Association Name="Customer_Box" Member="Boxes" ThisKey="CustomerGUID" OtherKey="CustomerId" Type="Box" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Meal" Member="Meals">
+    <Type Name="Meal">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Price" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Association Name="Meal_Order" Member="Orders" ThisKey="Id" OtherKey="MealId" Type="Order" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[Order]" Member="Orders">
+    <Type Name="Order">
+      <Column Name="CustomerId" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MealId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Customer_Order" Member="Customer" ThisKey="CustomerId" OtherKey="CustomerGUID" Type="Customer" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="Meal_Order" Member="Meal" ThisKey="MealId" OtherKey="Id" Type="Meal" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Box" Member="Boxes">
+    <Type Name="Box">
+      <Column Name="Id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CustomerId" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Customer_Box" Member="Customer" ThisKey="CustomerId" OtherKey="CustomerGUID" Type="Customer" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

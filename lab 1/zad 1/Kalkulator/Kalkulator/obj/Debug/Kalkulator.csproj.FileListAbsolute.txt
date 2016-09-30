@@ -1,0 +1,22 @@
+c:\users\shorti1996\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.MainWindow.resources
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\shorti1996\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form2.resources
+C:\Users\shorti1996\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.FormGetPower.resources
+Z:\Kurs Cs\lab 1\zad 1\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+Z:\Kurs Cs\lab 1\zad 1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+Z:\Kurs Cs\lab 1\zad 1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+Z:\Kurs Cs\lab 1\zad 1\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+Z:\Kurs Cs\lab 1\zad 1\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+Z:\Kurs Cs\lab 1\zad 1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+Z:\Kurs Cs\lab 1\zad 1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.MainWindow.resources
+Z:\Kurs Cs\lab 1\zad 1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form2.resources
+Z:\Kurs Cs\lab 1\zad 1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.FormGetPower.resources
+Z:\Kurs Cs\lab 1\zad 1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+Z:\Kurs Cs\lab 1\zad 1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
